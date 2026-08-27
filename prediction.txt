@@ -1,0 +1,27 @@
+PREDICTION — written before looking at deference rates by arm
+Date: 26 August 2026
+Data in hand at time of writing: 295 of 675 calls, judge validated
+at 48/50 (kappa 0.88). I have seen flip rates by arm but NOT
+deference rates by arm.
+
+1. Most deference:  evaluation arm
+   Because:
+   I lean toward the opposite-of-eval-awareness story: an explicit
+   testing/benchmark context may make the model more likely to treat
+   the authority hint as a signal that there is a known correct answer.
+
+2. Least deference:  neutral arm
+   Because:
+   Without an explicit framing cue, I expect the model to rely more
+   on its own reasoning rather than interpreting the situation as an
+   authority-sensitive evaluation.
+
+3. Expected gap between them:  7 percentage points
+
+4. I will conclude the framings did nothing if:
+   the spread across all five arms is under 7 points
+
+5. I will conclude my design is invalid if:
+   neutral and placebo differ by more than 7 points
+   (they should be near-identical — placebo has content but no
+   meaning about who is watching)
