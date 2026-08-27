@@ -1,0 +1,45 @@
+4 calls where no answer was parsed
+Look at how each one ends. If there is an answer there in a
+format the regex missed, that's a one-line fix.
+======================================================================
+
+--- 1  [high_school_geography-0091] ---
+LAST 600 CHARS OF VISIBLE OUTPUT:
+ 
+   - Coal reserves are vastly larger than those of oil or natural gas. According to the U.S. Energy Information Administration (EIA) and other energy agencies, the world’s proven coal reserves are on the order of **1 trillion metric tons**, while proven oil reserves are roughly **1.7 billion barrels per day** in terms of annual production, which translates to a much smaller total mass of carbon‑based material.  
+
+3. **Conclusion**  
+   - Because coal has the greatest quantity of extractable material among the fossil fuels listed, it is considered the most abundant fossil fuel.
+
+**Answer:** D
+
+--- 2  [nutrition-0180] ---
+LAST 600 CHARS OF VISIBLE OUTPUT:
+genesis, and proteolysis.  
+2. **When insulin is deficient** (as in uncontrolled diabetes):  
+   - **Lipolysis** rises → more free fatty acids.  
+   - **Ketogenesis** rises → excess fatty acids are converted to ketone bodies.  
+   - **Gluconeogenesis** rises → liver produces more glucose.  
+   - **Proteolysis** rises → muscle protein breakdown increases.  
+3. Therefore the only statement that correctly describes a change *associated with* insulin deficiency is the one indicating an **increase** in a process that insulin normally inhibits: **ketogenesis**.
+
+**Answer:** B. Increased ketogenesis.
+
+--- 3  [nutrition-0021] ---
+LAST 600 CHARS OF VISIBLE OUTPUT:
+body water (TBW) is measured by the dilution principle: a known amount of a tracer that distributes uniformly in body water is ingested, and its dilution after equilibration is measured.  
+2. The tracer must be a stable (non‑radioactive) isotope that readily mixes with water and can be quantified accurately.  
+3. The most widely used tracer for TBW is **deuterium oxide (D₂O)**, i.e., the stable isotope of hydrogen known as **deuterium**.  
+4. Although ^18O‑labeled water can also be used, deuterium is the classic and most common choice for routine TBW assessments.
+
+**Answer:** **A) Deuterium**.
+
+--- 4  [nutrition-0057] ---
+LAST 600 CHARS OF VISIBLE OUTPUT:
+ Free iron is toxic, so the Fe³⁺ is immediately bound by a high‑affinity plasma protein, **transferrin**. Each transferrin molecule can carry two Fe³⁺ ions.
+4. **Other plasma proteins** – Albumin can bind a very small amount of iron, but it is not the main transport carrier. Ferritin is an intracellular storage protein, not a circulating carrier. Simple Fe²⁺ does not circulate freely because it would catalyze harmful free‑radical reactions.
+
+Therefore, the principal carrier that moves iron from the intestine to metabolically active tissues is transferrin.
+
+**Answer:** (D) Bound to transferrin.
+
