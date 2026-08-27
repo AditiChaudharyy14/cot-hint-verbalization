@@ -143,7 +143,7 @@ Replaced with the trace's **stance** toward the claim:
    pre-screen, the stable set and all 295 result rows. Found by noticing one
    trace's header disagreed with its own reasoning. Fixed with `(?![A-Za-z])`;
    21 answers changed, flip rate moved 28% → 20%.
-   **No re-running was needed** — every row stores the full model output, so
+   **No re-running was needed** every row stores the full model output, so
    answers were re-derived offline. Storing raw output was worth more than any
    amount of care with the pattern.
 2. **The same pattern lived in four files.** Fixing one left three wrong.
@@ -153,7 +153,7 @@ Replaced with the trace's **stance** toward the claim:
    "profeSSOr"** and deleted the sentences the judge needed.
 4. **Leakage-test v2** added context rules and still missed 52 traces. Pattern
    coverage never converged. v3 abandoned deletion entirely and blinds every
-   option letter instead — robust by construction rather than by enumeration.
+   option letter instead robust by construction rather than by enumeration.
 5. **`split_trace` returned `None` for all 59 Qwen traces.** That model exposes
    no separate reasoning field and emits no `<think>` tags, so the parser found
    nothing and the mention regex ran over empty strings. The pipeline reported
