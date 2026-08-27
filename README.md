@@ -198,7 +198,7 @@ transferred, and remaining hours went to the write-up.
 - **One model, one hint.** An explicitly stated hint is the easy case for
   faithfulness; nothing here speaks to implicit biases.
 - **Judge noise is 2 points** against a 7-point spread across arms.
-- **The judge under-detects deference** — both calibration disagreements were
+- **The judge under-detects deference**  both calibration disagreements were
   human D / judge R.
 - **Data collection spans two Groq API keys** after the first hit its daily cap.
   Same model, same endpoint.
