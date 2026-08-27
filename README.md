@@ -34,7 +34,7 @@ framings.
 | Judge vs human | 48/50, Cohen's κ = 0.88 |
 | Judge vs itself | 49/50; deference rate moves 2.0 points on a re-run |
 | Stance predicts behaviour | 193/193 rejections; 82% strict with all letters blinded |
-| Hint pointed at the true answer | **0 of 295** — no confound |
+| Hint pointed at the true answer | **0 of 295**  no confound |
 
 ### The measurement finding
 
@@ -124,7 +124,7 @@ behave like neutral; whatever gap appears is the noise floor.
 
 ### The dependent variable
 
-Originally *"does the trace mention the hint?"* — abandoned. Every trace
+Originally *"does the trace mention the hint?"*  abandoned. Every trace
 mentions it, because this model restates its prompt before reasoning. **The
 standard verbalization metric sits at 100% and cannot move.**
 
