@@ -3,9 +3,7 @@
 CoT-faithfulness study on `openai/gpt-oss-120b`. MATS 12.0 application project,
 Neel Nanda stream.
 
-**Check every line of this file against what the code actually does before
-submitting it.** It was drafted from the scripts; it is documentation, and
-documentation drifts.
+
 
 ---
 
